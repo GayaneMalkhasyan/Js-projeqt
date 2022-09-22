@@ -1,0 +1,95 @@
+body{
+    background-image: url(./img/0.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.d{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.d1{
+    width: 8%;
+    height: 50px;
+    border: 1px solid black;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.d2{
+    width: 8%;
+    height: 50px;
+    border: solid 1px black;
+    position: absolute;
+    left: 20%;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.o{
+    width: 4%;
+    position: absolute;
+    left: 5%;
+    top: 100px;
+}
+.o1{
+    width: 4%;
+    position: absolute;
+    left: 60%;
+    top: 50px;
+}
+.o2{
+    width: 4%;
+    position: absolute;
+    left: 25%;
+    top: 300px;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+.o3{
+    width: 4%;
+    position: absolute;
+    left: 80%;
+    top: 100px;
+}
+.o4{
+    width: 4%;
+    position: absolute;
+    left: 10%;
+    top: 400px;
+}
+.o5{
+    width: 4%;
+    position: absolute;
+    left: 55%;
+    top: 250px;
+}
+.o6{
+    width: 100px;
+    position: absolute;
+    left: 65%;
+    top: 400px;
+}
+.o7{
+    width: 40%;
+    position: absolute;
+    left: 30%;
+    top: 100px;
+    opacity: 0;
+}
+.o8{
+    width: 40%;
+    position: absolute;
+    left: 30%;
+    top: 300px;
+    opacity: 0;
+}
+.tt{
+    opacity: 0;
+}
